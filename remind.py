@@ -5,7 +5,7 @@ def send_notification():
 
     # Use curl to send the notification
     try:
-        subprocess.run(["curl", "-d", "Vo Cua U Bi Ngo Do U Biet Ko" , "66-228-52-70.ip.linodeusercontent.com/First"])
+        subprocess.run(["curl", "-d", " Your Notification message here" , "66-228-52-70.ip.linodeusercontent.com/First"])
         print("Reminder sent successfully!")
     except FileNotFoundError:
         print("curl is not installed. Please install it.")
