@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+-This is my small project for auto reminder from create a linux base ntfy server
+-First you should have a linux os local or on cloud
+-Then you type these to update your os
+sudo apt update
+-After that you can instal docker container with this command
+sudo apt install docker.io -y
+update continue
 <!--
 **Riccky7410/Riccky7410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
